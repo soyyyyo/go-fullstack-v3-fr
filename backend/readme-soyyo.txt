@@ -15,3 +15,13 @@ server.listen(process.env.PORT || 3000);
 
 backend : server.js (en point d'entrée)
 backend : node server (rundemon server, ne fonctionne pas)
+
+backend: sudo npm install -g nodemon
+backend: nodemon server
+
+backend: npm install express (framework)
+backend > app.js
+
+const express = require('express');
+const app = express();
+module.exports = app;
