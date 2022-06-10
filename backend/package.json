@@ -1,0 +1,11 @@
+{
+  "name": "go-full-stack-soyyo",
+  "version": "1.0.0",
+  "description": "OpenClassRooms courses P6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SOYYO",
+  "license": "ISC"
+}
