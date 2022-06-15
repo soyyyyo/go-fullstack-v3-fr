@@ -32,3 +32,7 @@ connect application
 edit du app.js
 
 
+backend: npm install mongoose-unique-validator
+backend: npm install bcrypt
+npm install jsonwebtoken
+npm install multer
